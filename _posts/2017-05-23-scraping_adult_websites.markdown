@@ -1,0 +1,12 @@
+---
+layout: post
+title:  Scraping Adult Websites
+date:   2017-05-23 03:51:01 +0000
+---
+
+
+  Now that I've lured you in with promises of lewd discussion, prepare for the ole bait and switch. I wasn't exactly scraping racy websites for my CLI project but I was trying to use content from online wine retailers. Have you already guessed in your mind what took me hours and hours and several scraping attempts to realize? If not, I'll let you stew on it while my story unfolds. There is no good in telling the punchline before the joke.
+	Now, like any eager student, I combed the guidelines and expectations of the CLI project and understood the point that we shouldn't get all wrapped up on scraping websites but focus more on writing clean, concise object oriented Ruby code. So, I did. I iterated all over hashes and arrays, I forced objects to collaborate using classes, instances, variables, methods, and modules, and I successfully executed a working command line interface. Can I get an amen? 
+	The one thing I did not ever accomplish was scraping an adult website. You see, I built a wine pairing gem for novice wine drinkers to use when confused about pairing wines with main courses. In order to suggest specific wine brands and prices, I needed to scrape wine retailer websites so that my user could always have the most accurate information on where and what to purchase. After flawlessly scraping these adult html's and using good CSS indicators to grab elements, I was ready to test my classes. My first class went off without a hitch and general wine classes were born. Somebody say, "Hallelujah!". Here comes the storm, errors and bugs flew all over my second website test scrape. Was something wrong with Nokogiri? Did I delete my requirements for open-uri? Did I accidentally change a comma to a period? For the sake of brevity, I will save you the heartache I experienced and just serve up a pearl of wisdom. After several hours of frustrating troubleshooting, it became obvious to me that the websites requiring age verification for alcoholic purchases would not allow my gem to display its elements without sufficient proof that the user is over the legal drinking age. The take home message for scraping beginners like myself is to beware of the sign in restrictions on websites. I am sure you veteran scrapers are getting a good chuckle out of my debacle, but please keep the laughter to a dull roar. The rest of us are just trying to learn to code ;)
+	
+
