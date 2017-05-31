@@ -1,0 +1,8 @@
+---
+layout: post
+title:  From Drugs to Bugs (Programming Bugs That Is) 
+date:   2017-05-31 21:41:07 +0000
+---
+
+
+My decision to change careers and pursue web development stems from a 19-year career behind the pharmacy counter. I started working in a pharmacy at 15 years old, and never strayed from that path, until now. As a teenager, it seemed like the best career choice since I enjoy chemistry and biological sciences but the reality of the job turned out to be far different than my expectations. My disappointment with my former career can be stated briefly by saying that retail jobs are not the best fit for me. I even served in the army for a time to gain new experiences and get a new perspective on my career but to no avail. So, when I gave birth to my first daughter I used the downtime to explore every career option from entrepreneurship to fitness instructor and happened upon web development by accident. My niece wanted to set up a website to promote her new and growing photography career but didn't have extra money to pay an independent party to build it for her. I encouraged her to build her own site and did some research to learn and help get her started on the right track. In taking the free classes on sites such as ALISON and Codeacademy, I was pleasantly surprised to learn that I enjoyed coding and was looking forward to learning more...hmmm! The lightbulb went off and I witnessed the birth of my new career path. Thus, here I sit, a blank canvas ready to absorb all the coding knowledge I can and polish it off with a dose of helpful career planning and a little grooming!
