@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "There's Always Room for Ammo"
+date:   2017-06-21 03:13:26 +0000
+---
+
+
+By this point in our coding adventures we have all learned to master Ruby and to love it. Ruby has so far, been the foundation for all that we have learned and ERB or embedded Ruby is obviously, no exception. To quickly recap, embedding Ruby simply put, means embedding Ruby code into a frontend document such as HTML so that the code is processed on the backend and then sent to the browser. While building my first Sinatra application, I struggled a bit when trying to perform arithmetic operations within ERB. As I attempted to incorporate the basal metabolic rate equation into my user class views, I found that some of my integer data was behaving like a string, even though it was created as an integer. After a little research and memory search, I remembered using string_to_i to convert a string to an integer, which should look familiar to us all. Interestingly, amid all the research I stumbled upon Integer(value). Calling Integer(value) also converts a string to an integer and is a good tool to have in your back pocket. The major difference in the two methods though is that if you want a return value of nil for a string value that does not represent an integer it is wise to use Integer(value), while to_i will simply convert digits from a string to a fixnum. Both methods have great uses and should be used depending upon your end goal. Ultimately, I utilized the string_to_i method for my application but walked away from the experience with one more piece of coding ammunition in my arsenal. And isn’t that why we are all here?
